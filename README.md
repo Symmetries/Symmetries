@@ -4,7 +4,7 @@ diego/
 │   ├── computer_graphics
 │   └── type_theory
 ├── dev
-│   ├── frameworkless_frontend
+│   ├── pure_js
 │   ├── glsl
 │   └── p5.js
 └── math
