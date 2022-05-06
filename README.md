@@ -2,7 +2,7 @@
 diego/
 ├── cs
 │   ├── computer_graphics
-│   └── purely_functional
+│   └── type_theory
 ├── dev
 │   ├── frameworkless_frontend
 │   └── p5.js
